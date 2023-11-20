@@ -1,0 +1,12 @@
+pnpm-lock.yaml
+/node_modules
+node_modules/
+**/package.json
+package-lock.json
+package.json
+.next
+/.next/
+/build
+.husky
+/husky
+/public

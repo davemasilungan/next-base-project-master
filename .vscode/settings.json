@@ -1,0 +1,50 @@
+{
+  "files.exclude": {
+    "**/node_modules": true,
+    ".vscode": true,
+    ".next": true,
+    "next-env.d.ts": true,
+    "next.config.js": true
+  },
+
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    // apply ESLint
+    "source.fixAll.eslint": true
+  },
+
+  "typescript.tsdk": "node_modules\\.pnpm\\typescript@^5.2.2\\node_modules\\typescript\\lib",
+  "typescript.enablePromptUseWorkspaceTsdk": true,
+  "typescript.format.placeOpenBraceOnNewLineForFunctions": true,
+  "typescript.format.placeOpenBraceOnNewLineForControlBlocks": true,
+  "[typescriptreact]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.formatOnSave": true
+  },
+
+  "javascript.format.placeOpenBraceOnNewLineForFunctions": true,
+  "javascript.format.placeOpenBraceOnNewLineForControlBlocks": true,
+  "[javascript]": {
+    "editor.formatOnSave": true
+  },
+  "[javascriptreact]": {
+    "editor.formatOnSave": true
+  },
+
+  "json.schemas": [],
+  "[json]": {
+    "editor.quickSuggestions": {
+      "strings": true
+    },
+    "editor.suggest.insertMode": "replace",
+    "editor.formatOnSave": true
+  },
+
+  "prettier.singleAttributePerLine": true,
+  "prettier.useTabs": false,
+  "prettier.printWidth": 120
+}
