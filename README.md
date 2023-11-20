@@ -1,12 +1,12 @@
 ## Base Next App Project
 
-Next App packaged with:
-TypeScript
-Tailwind
-Shadcn/Ui
-Eslint
-Prettier
-Husky
+Next App packaged with:  
+TypeScript  
+Tailwind  
+Shadcn/Ui  
+Eslint  
+Prettier  
+Husky  
 
 ## Getting Started
 
