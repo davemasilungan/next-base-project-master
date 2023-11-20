@@ -1,6 +1,6 @@
-## Base Next App Project
+# Base Next App Project
 
-Next App packaged with:  
+## Next App bundeled with:  
 TypeScript  
 Tailwind  
 Shadcn/Ui  
